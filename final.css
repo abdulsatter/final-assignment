@@ -1,0 +1,138 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+ul li {
+    float: right;
+    display: inline-block;
+    background-image: linear-gradient(90deg, navy, orange);
+    border-radius: 10px;    
+    padding: 5px 10px;
+    margin-right: 10px;
+
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    color: hsl(30, 88%, 50%);
+    font-weight: bold;
+}
+
+.like-h1{
+    font-weight: bold;
+    color: darkorange;
+}
+.like-h1-two{
+    font-weight: bold;
+    color: orangered;
+}
+
+.font-color-two{
+ 
+    color: orangered;
+}
+.font-color{
+    color: darkorange;
+}
+section
+{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.half-part{
+    width: 30%;
+    text-align: justify;
+    margin: 10px;
+    padding: 20px 100px;
+    float: left;
+}
+
+.half-part-b{
+    width: 20%;
+    text-align: justify;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 20px;
+    float: left;
+    height: 400px;
+    border-radius: 10px;
+      
+}
+.half-part-b{
+    box-shadow: 10px 10px 40px gray;
+}
+
+.project{
+    text-align: center;
+    font-weight: bold;
+    color: #670c8b;
+}
+.half-part img{
+    width: 100%;
+}
+.half-part-b img{
+    width: 100%; 
+    
+}
+.top-back{
+    background-image: url("i/g.jpg");
+    background-repeat: no-repeat;
+}
+.top-back-second{
+    background-image: url("i/h.jpg");
+}
+
+.top-back-third{
+    background-image: url("i/ll.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.btn{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, orange, navy);
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.blog{
+    width: 50%;
+    height: 25%;
+    background-image: linear-gradient( navy, orange);
+   
+    text-align:left;
+    margin-left: 25%;
+    padding: 10px;
+    border-radius: 20px;
+}
+h4{
+    padding: 35px;
+    font-weight: bold;
+    color: white;
+   
+}
+#button{
+    float: right;
+   
+}
+.last-bg{
+    background-image: url("i/ex.jpg");
+    background-repeat: no-repeat;
+}
+.footer{
+    width: 100%;
+    height: 30%;
+    text-align: center;
+}
+.foot{
+    width: 50px;
+    height: 50px;
+}
